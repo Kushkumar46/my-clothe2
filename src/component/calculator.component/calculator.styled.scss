@@ -1,0 +1,37 @@
+
+
+.parent{
+    border: 1px solid black;
+    width: 406px;
+
+    .output{
+        border: 1px solid black;
+        width: 406px;
+        height: 40px;
+
+    }
+    .parent_calculatoe{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        row-gap: 20px;
+        width: 406px;
+        padding: 12px;
+        .button{
+        height: 54px;
+        width: 74px;
+        font-size: 35px;
+      }
+      
+    
+    }
+
+   
+}
+
+.romanparent{
+    border: 1px solid black;
+    .divroman{
+        border: 1px solid black;
+
+    }
+}

@@ -1,0 +1,7 @@
+const CART_ACTION_TYPES = {
+    SET_IS_CART_OPEN: 'CART/SET_IS_CART_OPEN',
+    SET_CART_ITEMS: 'CART/SET_CART_ITEMS',
+    SET_CART_NULL:'nulllll'
+   
+  };
+  export default CART_ACTION_TYPES;
